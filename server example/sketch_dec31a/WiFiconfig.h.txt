@@ -1,0 +1,2 @@
+const char ssid = "RENON INDIA PVT LTD"
+const chr WiFipassword = "renonfamily2020"
